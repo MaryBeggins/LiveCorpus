@@ -1,0 +1,466 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 670.151
+tiers? <exists>
+size = 5
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "default"
+        xmin = 0.0
+        xmax = 670.151
+        intervals: size = 1
+        intervals [1]
+            xmin = 0.0
+            xmax = 670.151
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "bav-Speech"
+        xmin = 0.0
+        xmax = 670.151
+        intervals: size = 33
+        intervals [1]
+            xmin = 0.0
+            xmax = 182.59
+            text = ""
+        intervals [2]
+            xmin = 182.59
+            xmax = 183.98
+            text = "а потом обязательно я"
+        intervals [3]
+            xmin = 183.98
+            xmax = 185.39
+            text = ""
+        intervals [4]
+            xmin = 185.39
+            xmax = 188.51
+            text = "как в школу начала ходить, месяц проводила в пионерском лагере"
+        intervals [5]
+            xmin = 188.51
+            xmax = 189.15
+            text = ""
+        intervals [6]
+            xmin = 189.15
+            xmax = 190.21
+            text = "это было обязательно"
+        intervals [7]
+            xmin = 190.21
+            xmax = 190.23
+            text = ""
+        intervals [8]
+            xmin = 190.23
+            xmax = 190.782
+            text = "Даа [нрзб]"
+        intervals [9]
+            xmin = 190.782
+            xmax = 195.107
+            text = ""
+        intervals [10]
+            xmin = 195.107
+            xmax = 200.21
+            text = "после третьего,после четветого, после пятого, после шестого, после седьмого"
+        intervals [11]
+            xmin = 200.21
+            xmax = 200.81
+            text = ""
+        intervals [12]
+            xmin = 200.81
+            xmax = 202.133
+            text = "и после восьмого"
+        intervals [13]
+            xmin = 202.133
+            xmax = 203.48
+            text = ""
+        intervals [14]
+            xmin = 203.48
+            xmax = 204.57
+            text = "шесть раз, да"
+        intervals [15]
+            xmin = 204.57
+            xmax = 211.601
+            text = ""
+        intervals [16]
+            xmin = 211.601
+            xmax = 212.71
+            text = "ну, у меня"
+        intervals [17]
+            xmin = 212.71
+            xmax = 214.07
+            text = ""
+        intervals [18]
+            xmin = 214.07
+            xmax = 214.508
+            text = "нет"
+        intervals [19]
+            xmin = 214.508
+            xmax = 215.242
+            text = ""
+        intervals [20]
+            xmin = 215.242
+            xmax = 215.732
+            text = "нет"
+        intervals [21]
+            xmin = 215.732
+            xmax = 215.752
+            text = ""
+        intervals [22]
+            xmin = 215.752
+            xmax = 216.17
+            text = "нет"
+        intervals [23]
+            xmin = 216.17
+            xmax = 216.22
+            text = ""
+        intervals [24]
+            xmin = 216.22
+            xmax = 218.7
+            text = "мне в основном не нравилось"
+        intervals [25]
+            xmin = 218.7
+            xmax = 219.012
+            text = ""
+        intervals [26]
+            xmin = 219.012
+            xmax = 226.83
+            text = "мне нравилось после третьего класса, или это было после второго, я не помню, в общем когда я первый раз ездила и когда я последний раз ездила"
+        intervals [27]
+            xmin = 226.83
+            xmax = 227.31
+            text = ""
+        intervals [28]
+            xmin = 227.31
+            xmax = 229.42
+            text = "ещё мне понравилось после пятого класса"
+        intervals [29]
+            xmin = 229.42
+            xmax = 233.212
+            text = ""
+        intervals [30]
+            xmin = 233.212
+            xmax = 237.81
+            text = "ну,было два лагеря. Один лагерь был от маминой работы, а второй от папиной"
+        intervals [31]
+            xmin = 237.81
+            xmax = 237.885
+            text = ""
+        intervals [32]
+            xmin = 237.885
+            xmax = 244.9
+            text = "от маминой работы лагерь был, и туда ездили дети, с которыми я училась"
+        intervals [33]
+            xmin = 244.9
+            xmax = 670.151
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "bmk-Speech"
+        xmin = 0.0
+        xmax = 670.151
+        intervals: size = 13
+        intervals [1]
+            xmin = 0.0
+            xmax = 190.23
+            text = ""
+        intervals [2]
+            xmin = 190.23
+            xmax = 193.775
+            text = "а в пионерский лагерь ты в итоге сколько раз ездила?"
+        intervals [3]
+            xmin = 193.775
+            xmax = 202.153
+            text = ""
+        intervals [4]
+            xmin = 202.153
+            xmax = 203.47
+            text = "ну, короче, шесть раз"
+        intervals [5]
+            xmin = 203.47
+            xmax = 204.58
+            text = ""
+        intervals [6]
+            xmin = 204.58
+            xmax = 205.83
+            text = "Ааааа... ну, я не знаю"
+        intervals [7]
+            xmin = 205.83
+            xmax = 205.845
+            text = ""
+        intervals [8]
+            xmin = 205.845
+            xmax = 211.2
+            text = "я просто про пионерский лагерь единственное,что помню,это ты рассказывала один раз, что тебе там очень не нравилось"
+        intervals [9]
+            xmin = 211.2
+            xmax = 211.93
+            text = ""
+        intervals [10]
+            xmin = 211.93
+            xmax = 215.49
+            text = "тебе каждый раз там очень не нравилось или это был исключительный раз"
+        intervals [11]
+            xmin = 215.49
+            xmax = 229.535
+            text = ""
+        intervals [12]
+            xmin = 229.535
+            xmax = 232.98
+            text = "а чем это отличалось от остальных разов?"
+        intervals [13]
+            xmin = 232.98
+            xmax = 670.151
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "bav-LogicalStress"
+        xmin = 0.0
+        xmax = 670.151
+        intervals: size = 43
+        intervals [1]
+            xmin = 0.0
+            xmax = 183.11
+            text = ""
+        intervals [2]
+            xmin = 183.11
+            xmax = 183.73
+            text = "обязательно"
+        intervals [3]
+            xmin = 183.73
+            xmax = 184.0
+            text = ""
+        intervals [4]
+            xmin = 184.0
+            xmax = 185.36
+            text = "(пауза)"
+        intervals [5]
+            xmin = 185.36
+            xmax = 188.517
+            text = ""
+        intervals [6]
+            xmin = 188.517
+            xmax = 189.15
+            text = "(пауза)"
+        intervals [7]
+            xmin = 189.15
+            xmax = 189.75
+            text = ""
+        intervals [8]
+            xmin = 189.75
+            xmax = 190.235
+            text = "обязательно"
+        intervals [9]
+            xmin = 190.235
+            xmax = 194.767
+            text = ""
+        intervals [10]
+            xmin = 194.767
+            xmax = 195.09
+            text = "(цокает языком)"
+        intervals [11]
+            xmin = 195.09
+            xmax = 195.49
+            text = ""
+        intervals [12]
+            xmin = 195.49
+            xmax = 196.03
+            text = "третьего"
+        intervals [13]
+            xmin = 196.03
+            xmax = 196.395
+            text = ""
+        intervals [14]
+            xmin = 196.395
+            xmax = 197.08
+            text = "четвертого"
+        intervals [15]
+            xmin = 197.08
+            xmax = 197.78
+            text = ""
+        intervals [16]
+            xmin = 197.78
+            xmax = 198.25
+            text = "пятого"
+        intervals [17]
+            xmin = 198.25
+            xmax = 198.67
+            text = ""
+        intervals [18]
+            xmin = 198.67
+            xmax = 199.2
+            text = "шестого"
+        intervals [19]
+            xmin = 199.2
+            xmax = 199.622
+            text = ""
+        intervals [20]
+            xmin = 199.622
+            xmax = 200.22
+            text = "седьмого"
+        intervals [21]
+            xmin = 200.22
+            xmax = 216.78
+            text = ""
+        intervals [22]
+            xmin = 216.78
+            xmax = 217.81
+            text = "в основном"
+        intervals [23]
+            xmin = 217.81
+            xmax = 219.8
+            text = ""
+        intervals [24]
+            xmin = 219.8
+            xmax = 220.57
+            text = "нравилось"
+        intervals [25]
+            xmin = 220.57
+            xmax = 220.93
+            text = ""
+        intervals [26]
+            xmin = 220.93
+            xmax = 221.48
+            text = "третьего"
+        intervals [27]
+            xmin = 221.48
+            xmax = 224.66
+            text = ""
+        intervals [28]
+            xmin = 224.66
+            xmax = 225.13
+            text = "первый"
+        intervals [29]
+            xmin = 225.13
+            xmax = 225.72
+            text = ""
+        intervals [30]
+            xmin = 225.72
+            xmax = 226.37
+            text = "последний"
+        intervals [31]
+            xmin = 226.37
+            xmax = 228.66
+            text = ""
+        intervals [32]
+            xmin = 228.66
+            xmax = 229.12
+            text = "пятого"
+        intervals [33]
+            xmin = 229.12
+            xmax = 234.26
+            text = ""
+        intervals [34]
+            xmin = 234.26
+            xmax = 234.54
+            text = "два"
+        intervals [35]
+            xmin = 234.54
+            xmax = 235.72
+            text = ""
+        intervals [36]
+            xmin = 235.72
+            xmax = 236.221
+            text = "от маминой"
+        intervals [37]
+            xmin = 236.221
+            xmax = 237.05
+            text = ""
+        intervals [38]
+            xmin = 237.05
+            xmax = 237.84
+            text = "от папиной"
+        intervals [39]
+            xmin = 237.84
+            xmax = 238.78
+            text = ""
+        intervals [40]
+            xmin = 238.78
+            xmax = 239.35
+            text = "маминой"
+        intervals [41]
+            xmin = 239.35
+            xmax = 243.82
+            text = ""
+        intervals [42]
+            xmin = 243.82
+            xmax = 244.64
+            text = "училась"
+        intervals [43]
+            xmin = 244.64
+            xmax = 670.151
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "bmk-LogicalStress"
+        xmin = 0.0
+        xmax = 670.151
+        intervals: size = 17
+        intervals [1]
+            xmin = 0.0
+            xmax = 192.62
+            text = ""
+        intervals [2]
+            xmin = 192.62
+            xmax = 193.18
+            text = "сколько раз"
+        intervals [3]
+            xmin = 193.18
+            xmax = 202.387
+            text = ""
+        intervals [4]
+            xmin = 202.387
+            xmax = 202.7
+            text = "короче"
+        intervals [5]
+            xmin = 202.7
+            xmax = 207.54
+            text = ""
+        intervals [6]
+            xmin = 207.54
+            xmax = 207.94
+            text = "что помню"
+        intervals [7]
+            xmin = 207.94
+            xmax = 208.86
+            text = ""
+        intervals [8]
+            xmin = 208.86
+            xmax = 209.29
+            text = "один раз"
+        intervals [9]
+            xmin = 209.29
+            xmax = 210.62
+            text = ""
+        intervals [10]
+            xmin = 210.62
+            xmax = 211.207
+            text = "не нравилось"
+        intervals [11]
+            xmin = 211.207
+            xmax = 212.27
+            text = ""
+        intervals [12]
+            xmin = 212.27
+            xmax = 212.8
+            text = "каждый	"
+        intervals [13]
+            xmin = 212.8
+            xmax = 214.25
+            text = ""
+        intervals [14]
+            xmin = 214.25
+            xmax = 215.15
+            text = "исключительный"
+        intervals [15]
+            xmin = 215.15
+            xmax = 231.73
+            text = ""
+        intervals [16]
+            xmin = 231.73
+            xmax = 232.6
+            text = "остальных"
+        intervals [17]
+            xmin = 232.6
+            xmax = 670.151
+            text = ""
